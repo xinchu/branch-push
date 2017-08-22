@@ -1,0 +1,15 @@
+{
+  "name": "branch-push",
+  "version": "1.0.0",
+  "description": "static dir push origin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "push"
+  ],
+  "author": "chuxin.me@gmail.com",
+  "license": "ISC"
+}
